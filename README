@@ -1,0 +1,8 @@
+In this project, I used ECG signals to detection sleep apnea events.
+Because some reason, I can't release data.
+
+Traning and vaildaton accuracy can reach 98% and 97%.
+In test part, I use Apnea-ECG dataset and UCDDB dataset.
+
+cnnlstm.py is my deep learning architecture code
+Apnea_train2.py is the training file
